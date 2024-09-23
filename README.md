@@ -11,7 +11,7 @@ Features
 
 Usage 🚀
 
-     Clone the repository: 
+Clone the repository: 
 
 
 ```git clone https://github.com/yourusername/WP-DoomSlinger.git```
