@@ -20,8 +20,6 @@ cd WP-DoomSlinger
 
 Install dependencies:
 
-bash
-
 pip install -r requirements.txt
 
 Run the tool:
