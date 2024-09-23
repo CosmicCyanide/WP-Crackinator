@@ -9,18 +9,17 @@ Features
     📊 Success and failure visual summary
     📩 Email and Telegram notifications on successful cracks
 
-Usage
+Usage 🚀
 
-    Clone the repository:
+     Clone the repository: 
 
-    bash
 
-git clone https://github.com/yourusername/WP-DoomSlinger.git
-cd WP-DoomSlinger
+```git clone https://github.com/yourusername/WP-DoomSlinger.git```
+```cd WP-DoomSlinger```
 
 Install dependencies:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Run the tool:
 
