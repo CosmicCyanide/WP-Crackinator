@@ -15,7 +15,6 @@ Clone the repository:
 
 
 ```git clone https://github.com/yourusername/WP-DoomSlinger.git```
-```cd WP-DoomSlinger```
 
 Install dependencies:
 
