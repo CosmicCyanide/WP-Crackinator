@@ -24,8 +24,8 @@ headers = {
 
 logging.basicConfig(filename='results.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-telegram_bot_token = '7984833043:AAGu1M6vw_EIaorrT4MLBvNIn8VOVCUY_9s'
-telegram_chat_id = '6421805819'
+telegram_bot_token = ''
+telegram_chat_id = ''
 
 def send_telegram_message(message):
     telegram_api_url = f"https://api.telegram.org/bot{telegram_bot_token}/sendMessage"
